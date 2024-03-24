@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRMenuaPI", "QRMenuaPI\QRMenuaPI.csproj", "{736F47C0-F072-4F65-8ED6-072AF2534A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736F47C0-F072-4F65-8ED6-072AF2534A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736F47C0-F072-4F65-8ED6-072AF2534A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736F47C0-F072-4F65-8ED6-072AF2534A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736F47C0-F072-4F65-8ED6-072AF2534A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F42794F-8DB3-40D4-82DA-A4BD2C87A3D8}
+	EndGlobalSection
+EndGlobal
