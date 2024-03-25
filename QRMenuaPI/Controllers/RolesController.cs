@@ -86,12 +86,12 @@ namespace QRMenuAPI.Controllers
 
         // POST: api/RolesManager
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
-        public void PostApplicationRole(string roleName)
-        {
-            IdentityRole identityRole = new IdentityRole(roleName);
-            _rolesManager.CreateAsync(identityRole).Wait();
-        }
+        //[HttpPost]
+        //public void PostApplicationRole(string roleName)
+        //{
+           // IdentityRole identityRole = new IdentityRole(roleName);
+           // _rolesManager.CreateAsync(identityRole).Wait();
+       // }
 
         //// DELETE: api/RolesManager/5
         //[HttpDelete("{id}")]
